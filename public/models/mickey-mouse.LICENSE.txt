@@ -1,0 +1,16 @@
+Mickey Mouse 3D model
+
+Creator: CappyAdams
+Source: https://cappyadams.itch.io/mickey-mouse
+Source file: Mickey_Mouse_V1.blend
+Asset license stated by the creator: Creative Commons Attribution-NonCommercial 4.0 International
+License: https://creativecommons.org/licenses/by-nc/4.0/
+
+Adaptations for this portfolio: converted to self-contained glTF/GLB, reduced
+subdivision for web rendering, retained the deformation skeleton, and converted
+the creator's packed baked color textures to standard PBR materials. Scene
+helpers, embedded UI scripts, cameras and lights are excluded from the GLB.
+Runtime character scale, idle pose and movement are adapted for the portfolio.
+
+The supplied asset license is noncommercial. This credit does not imply
+endorsement by the character owner or model creator.

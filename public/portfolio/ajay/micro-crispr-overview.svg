@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750" role="img" aria-labelledby="title desc">
+<title id="title">Micro CRISPR · Project overview</title>
+<desc id="desc">Resume-based project summary for Ajay Kumar. Sole developer · Independently developed.</desc>
+<defs>
+ <radialGradient id="glow" cx="100%" cy="0%" r="100%"><stop offset="0" stop-color="#ffae7a" stop-opacity=".13"/><stop offset=".7" stop-color="#ffae7a" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse"><path d="M60 0H0V60" fill="none" stroke="#fff" stroke-opacity=".025"/></pattern>
+</defs>
+<rect width="1200" height="750" rx="20" fill="#0c0d11"/>
+<rect width="1200" height="750" rx="20" fill="url(#glow)"/>
+<rect width="1200" height="750" rx="20" fill="url(#grid)"/>
+<rect x="24" y="24" width="1152" height="702" rx="12" fill="none" stroke="#fff" stroke-opacity=".12"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="64" y="75" font-size="18" fill="#ffae7a" font-weight="500" letter-spacing="2">SELECTED PROJECT / 03</text>
+<text x="1136" y="75" font-size="18" fill="#bbb8c2" font-weight="400" letter-spacing="2" text-anchor="end">AJAY KUMAR</text>
+<text x="64" y="183" font-size="82" fill="#f2eee7" font-weight="500" letter-spacing="-3">Micro CRISPR</text><text x="64" y="234" font-size="29" fill="#c9c6cf" font-weight="400" >Biotechnology Company Website</text><path d="M64 276H1136" stroke="#fff" stroke-opacity=".13"/><path d="M64 276H168" stroke="#ffae7a" stroke-width="3"/><text x="64" y="326" font-size="17" fill="#ffae7a" font-weight="500" letter-spacing="2">THE PROJECT</text><text x="64" y="375" font-size="30" fill="#d2d0d7" font-weight="400" >A responsive company website with seven</text><text x="64" y="418" font-size="30" fill="#d2d0d7" font-weight="400" >views, reusable components, animated</text><text x="64" y="461" font-size="30" fill="#d2d0d7" font-weight="400" >transitions and a scroll-driven video hero.</text><path d="M778 316V539" stroke="#fff" stroke-opacity=".12"/><text x="820" y="326" font-size="17" fill="#ffae7a" font-weight="500" letter-spacing="2">BUILT WITH</text><text x="820" y="374" font-size="24" fill="#dedce3" font-weight="400" >React / JavaScript</text><text x="820" y="417" font-size="24" fill="#dedce3" font-weight="400" >Vite / Tailwind CSS</text><text x="820" y="460" font-size="24" fill="#dedce3" font-weight="400" >Framer Motion / Lenis</text><text x="820" y="503" font-size="24" fill="#dedce3" font-weight="400" >EmailJS / GA4</text><rect x="64" y="576" width="1072" height="63" rx="12" fill="#ffae7a" fill-opacity=".07" stroke="#ffae7a" stroke-opacity=".22"/><text x="88" y="615" font-size="23" fill="#e8e5ed" font-weight="400" >Sole developer · Independently developed</text>
+<path d="M64 674H1136" stroke="#fff" stroke-opacity=".13"/>
+<text x="64" y="707" font-size="16" fill="#9a98a2" font-weight="400" letter-spacing="1.5">PROJECT OVERVIEW</text>
+<text x="1136" y="707" font-size="16" fill="#ffae7a" font-weight="400" text-anchor="end">03 / 04</text>
+</g>
+</svg>
